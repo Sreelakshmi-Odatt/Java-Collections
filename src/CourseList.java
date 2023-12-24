@@ -1,13 +1,8 @@
 /*
  * 
-File: CourseList.java 
-  Student Numebr :Sreelakshmi Odatt Venu
- Student Number:041093516
- Course: CST8284 – OOP
- Assignment: Assignment 3
- Due Date: December 3 2023
- Professor: Veda Vasavi Erukulla
- Purpose: This class display the courses and the list of course in the requierd list such as reversed , capitalised , etc.
+
+Author:Sreelakshmi Odatt Venu
+
  */
 
 import java.util.Arrays;

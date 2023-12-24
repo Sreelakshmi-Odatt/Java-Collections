@@ -1,1 +1,44 @@
-This is a  Java Collections Assignment. In this project, we look into the rich world of Java collections, applying fundamental concepts such as Lists, LinkedLists, and ListIterators, etc.  The tasks involve creating two LinkedLists, list1 and list2, populating them with course names, merging the lists, and performing various operations. Utilizing the principles learned in our coursework and we use them in tasks like printing, converting to uppercase, creating and deleting sublists, reversing order, sorting alphabetically, and eliminating duplicates. 
+# Java Collections Assignment
+
+## Overview
+
+This Java Collections Assignment explores fundamental concepts like Lists, LinkedLists, and ListIterators in Java. The project involves creating two LinkedLists, `list1` and `list2`, and performing various operations such as merging, printing, converting to uppercase, creating and deleting sublists, reversing order, sorting alphabetically, and eliminating duplicates. The tasks uses the  principles learned in coursework to manipulate and analyze data in the context of Java collections.
+
+## Tasks
+
+### Create LinkedLists:
+
+- Initialize two LinkedLists, `list1` and `list2`.
+
+### Populate Lists:
+
+- Add course names to both the lists.
+
+### Merge Lists:
+
+- Combine the contents of both the lists.
+
+### Print Lists:
+
+- Display elements from both the lists .
+
+### Convert to Uppercase:
+
+- Uppercase all course names .
+
+### Create and Delete Sublists:
+
+- Generate a sublist , print it, and then remove it .
+
+### Reverse Order:
+
+- Invert the order of elements 
+
+### Sort Alphabetically:
+
+- Arrange elements in laphabetical order 
+
+### Eliminate Duplicates:
+
+- Remove duplicate elements 
+
